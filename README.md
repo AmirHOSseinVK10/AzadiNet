@@ -1,2 +1,2 @@
-# azadinet
+# AzadiNet
 دسترسی آزاد به اینترنت
