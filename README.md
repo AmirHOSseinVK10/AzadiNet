@@ -4,4 +4,4 @@
 
 
 
-https://amirhosseinvk10.github.io/azadinet/azadinet.html
+https://amirhosseinvk10.github.io/AzadiNet/azadinet.html
